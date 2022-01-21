@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SidharajYadav
 - 👀 I’m interested in Python Web Development
-- 🌱 I’m currently learning Python, Django
+- 🌱 I’m currently learning Python, Django, HTML, Git
 - 💞️ I’m looking to collaborate on New Developers
 - 📫 How to reach me sidharajyadav157@gmail.com
 
