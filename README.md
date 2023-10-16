@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SidharajYadav
-- 👀 I’m interested in Data Analyst,Python Web Development,Full Stack Development
-- 🌱 I’m currently learning Python,MySQL,Power BI, Django,Java, MERN Stack ,HTML, Git
+- 👀 I’m interested in Data Analyst,Frontend Development,Full Stack Development
+- 🌱 I’m currently learning React.js,Python,MySQL,Power BI, Django,Java, MERN Stack ,HTML, Git
 - 💞️ I’m looking to collaborate on New Developers
 - 📫 How to reach me sidharajyadav157@gmail.com, yadavsiddharaj@gmail.com
 - Linkdin - Siddharaj Yadav  https://www.linkedin.com/in/siddharaj-yadav-82a09621b
