@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SidharajYadav, Associate Software Engineer @feedbank.ai     
+- 👋 Hi, I’m @SidharajYadav,e Software Engineer @feedbank.ai     
 - 👀 I’m interested in Frontend Development,Full Stack Development,React Developer       
 - 🌱 I’m currently learning React.js,Node.js,Python,MySQL,Power BI, Django,Java, MERN Stack ,HTML, Git       
 - 💞️ I’m looking to collaborate on New Company & New Developers          
