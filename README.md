@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SidharajYadav, Software Engineer @feedbank.ai     
 - 👀 I’m interested in Frontend Development,Full Stack Development,React Developer       
-- 🌱 I’m currently learning React.js,Node.js,Python,MySQL,Power BI, Django,Java, MERN Stack ,HTML, Git        
+- 🌱 I’m Working on React.js,Next.js,Node.js,Python,MySQL,Power BI, Django,Java, MERN Stack ,HTML, Git
+- 🌱 I’m learing Devops.   
 - 💞️ I’m looking to collaborate on New Company & New Developers           
 - 📫 How to reach me sidharajyadav157@gmail.com, yadavsiddharaj@gmail.com         
 - Linkdin - Siddharaj Yadav  https://www.linkedin.com/in/siddharaj-yadav-82a09621b            
